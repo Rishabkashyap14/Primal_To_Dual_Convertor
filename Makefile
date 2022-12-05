@@ -1,5 +1,5 @@
 all: PDC.o 
-	g++ -g -Wall PDC.o -o a.out
+	g++ -g -Wall PDC.o -o conversion
 
 PDC.o:
 	g++ -g -c PDC.cpp
