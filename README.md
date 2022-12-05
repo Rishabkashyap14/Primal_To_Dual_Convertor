@@ -10,9 +10,9 @@ Once the primal problem has been entered, the first step is the conversion into 
 
 ## How can I execute this? 
 
-Clone the repository on your local system, and simply run:
-`make`
-`./conversion`
+Clone the repository on your local system, and simply run:  
+`make`  
+`./conversion`  
 
 To clean any files newly created, simply use:  
 `make clean`
